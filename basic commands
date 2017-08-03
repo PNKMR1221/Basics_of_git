@@ -1,0 +1,25 @@
+======================================================
+create a repo and upload it to remote/github.com
+=======================================================
+git config --global user.name "Mouni Narendra"
+git config --global user.email PNKMR1221@gmail.com
+git init <repo_name>
+git status
+git add <file_name>
+git commit
+git push
+========================================================
+download repo list from remote
+========================================================
+git pull <url_of_github.com_repo>
+=========================================================
+branch commands
+=========================================================
+git branch
+git branch <branch_name>
+git checkout <branch_name>
+=========================================================
+merge commands
+=========================================================
+git checkout master
+git merge <branch_name>
